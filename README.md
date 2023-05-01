@@ -1,1 +1,1 @@
-# OSSL_PR
+# OSSL PR 연습 Repo
